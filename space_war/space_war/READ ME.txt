@@ -1,0 +1,11 @@
+BACKSTORY
+
+	Your crusing through the space of epileptic stars. While you look away for a second, you get jumped by
+army of aliens. They entrap you in the 2d box, that traps their projectiles and make them bounce. BUT they didn't
+expected you to have projectiles as well. The epic battle begins between vicious Aliens that want to destroy you 
+for no apparent reason and you in your amazing vehicle. 
+
+HOW TO PLAY
+
+Move left and right with arrow keys and shoot the evil, vicious Aliens with the use of space. Don't get hit and you might 
+survive 
