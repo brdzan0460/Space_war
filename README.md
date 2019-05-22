@@ -29,5 +29,5 @@ Once in a round health pack will pop out in the middle of the screen that will f
 https://www.piskelapp.com/ 
 
 
-[[https://github.com/brdzan0460/Suprise-Space-Attack/blob/master/a.png?raw=true]]
+[[https://github.com/brdzan0460/Suprise-Space-Attack.wiki.git]]
 
