@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/brdzan0460/Space_war/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**BACKSTORY** 
+Your crusing through the space of epileptic stars. While you look away for a second, you get jumped by
+army of aliens. They entrap you in the 2d box, that traps their projectiles and make them bounce. BUT they didn't
+expected you to have projectiles as well. The epic battle begins between vicious Aliens that want to destroy you 
+for no apparent reason and you in your amazing vehicle. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**INSTRUCTIONS** 
+Main goal of the game is to get rid of all the aliens without dying
+If you clear the level without taking any damage then you successfully won the game but if you get any damage on yourself then you preceed to next, identical, stage and if your health gets past critical stage then you die and you need to press R to restart the game. 
+Your health can be seen in left top corner, you start with 5 health and when health reaches 0 then you lose or whenever your health gets past red stage. 
+Your and Enemy bullets bounce up and down the screen, but only enemy bullets can damage you, and only your bullets can damage enemies, at any given time only 5 of your bulltes can be out on the screen. 
+To move left and right and up and down you need to press coresponding arrow on keyboard, and if you want to shoot then you need to press space
+If you are looking for faster experience you can click C for game to move twice as fast. 
+Once in a round, UFO will pop out on top of enemies and killing it will give you additional points. 
+Once in a round health pack will pop out in the middle of the screen that will fully heal you. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brdzan0460/Space_war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**SCORING**
+Enemy = 1 point
+UFO = 30 points 
+Finishing stage = 10 points 
