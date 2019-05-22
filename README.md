@@ -18,8 +18,11 @@ Once in a round health pack will pop out in the middle of the screen that will f
 
 
 **SCORING**
+
 -Enemy = 1 point
+
 -UFO = 30 points 
+
 -Finishing stage = 10 points 
 
 **Sources**
