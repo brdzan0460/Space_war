@@ -18,11 +18,6 @@ Once in a round health pack will pop out in the middle of the screen that will f
 
 
 **SCORING**
-Enemy = 1 point
-UFO = 30 points 
-Finishing stage = 10 points 
-Your crusing through the space of epileptic stars. While you look away for a second, you get jumped by
-army of aliens. They entrap you in the 2d box, that traps their projectiles and make them bounce. BUT they didn't
-expected you to have projectiles as well. The epic battle begins between vicious Aliens that want to destroy you 
-for no apparent reason and you in your amazing vehicle. 
-
+-Enemy = 1 point
+-UFO = 30 points 
+-Finishing stage = 10 points 
