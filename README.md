@@ -37,5 +37,4 @@ Once in a round health pack will pop out in the middle of the screen that will f
 **Sources**
 https://www.piskelapp.com/ 
 
-
-[[https://raw.githubusercontent.com/brdzan0460/Suprise-Space-Attack/master/a.png]]
+![ScreenShot](https://raw.githubusercontent.com/brdzan0460/Suprise-Space-Attack/master/a.png)
